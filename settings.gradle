@@ -1,0 +1,2 @@
+rootProject.name='DMAD'
+include ':app'
